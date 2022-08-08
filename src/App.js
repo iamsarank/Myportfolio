@@ -18,7 +18,6 @@ function App() {
       <Services />
       <Resume />
       <Portfolio />
-      <Resume />
     </main>
     </>
   );
