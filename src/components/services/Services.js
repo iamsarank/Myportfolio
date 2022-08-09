@@ -10,14 +10,14 @@ const data = [
     image: Image1,
     title: "UI/UX design",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "We offer comprehensive UI/UX services that include branding, responsive web design, mobile app design, user experience consulting, and promotional designs using the latest tools and technologies.",
   },
   {
     id: 2,
     image: Image2,
     title: "Web Development",
     description:
-      "Lorem ipsum dolor sit amet consectetuer adipiscing elit         aenean commodo ligula eget.",
+      "We develop E-Commerce, Small Bussiness, Corporate Website etc..",
   },
 ];
 
