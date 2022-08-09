@@ -1,6 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AbtImg from "../../assets/avatar-2.svg";
+import PdfResume from "../../assets/SARAVANAKUMAR's Resume.pdf"
 
 const About = () => {
   return (
@@ -13,7 +14,7 @@ const About = () => {
         <div className='about__data grid'>
           <div className='about__info'>
             <p className='about__description'>I am Saravanakumar Kathiravan, Web developer from Rajapalayam. I have rich experience in web site design adn building and customization, also I am good at React.</p>
-            <a href='' className='btn'>Download CV</a>            
+            <a href={PdfResume} className='btn'>Download CV</a>            
           </div>
 
           <div className='about__skills grid'>
